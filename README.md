@@ -20,4 +20,4 @@ Below are some of the widgets used in this Application:
 
 ##Display Mode
 
-<img src="images/3.png" height="500" width="350" >
+<img src="images/3.png" height="620" width="350" >
