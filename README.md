@@ -9,10 +9,10 @@ This project is a Next level to Demo Flutter Application.
 Below are some of the widgets used in this Application:
 
 - Scaffold
--Container
--column & Row
--Card
--Circle Avatar
+- Container
+- Column & Row
+- Card
+- Circle Avatar
 
 ## Incorporating
 
@@ -20,4 +20,4 @@ Below are some of the widgets used in this Application:
 
 ##Display Mode
 
-<img src="images/3.png height=500 width=350 >
+<img src="images/3.png" height="500" width="350" >
