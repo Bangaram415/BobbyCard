@@ -2,7 +2,7 @@
 
 A new Flutter application Comprise of Business Card of Bobby.
 
-## Widgets
+# Widgets
 
 This project is a Next level to Demo Flutter Application.
 
@@ -14,10 +14,10 @@ Below are some of the widgets used in this Application:
 - Card
 - Circle Avatar
 
-## Incorporating
+# Incorporating
 
 -In this Application we have incorporated the google font styles available.
 
-##Display Mode
+# Display Mode
 
 <img src="images/3.png" height="620" width="350" >
