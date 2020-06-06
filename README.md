@@ -1,16 +1,23 @@
-# bobbycard
+# BobbyCard
 
-A new Flutter application.
+A new Flutter application Comprise of Business Card of Bobby.
 
-## Getting Started
+## Widgets
 
-This project is a starting point for a Flutter application.
+This project is a Next level to Demo Flutter Application.
 
-A few resources to get you started if this is your first Flutter project:
+Below are some of the widgets used in this Application:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Scaffold
+-Container
+-column & Row
+-Card
+-Circle Avatar
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Incorporating
+
+-In this Application we have incorporated the google font styles available.
+
+##Display Mode
+
+<img src="images/3.png height=500 width=350 >
